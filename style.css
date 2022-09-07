@@ -1,0 +1,19 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css');
+
+.temp-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.temp-converter {
+    background: linear-gradient(to top, #7474bf, #348ac7);
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px #21212150;
+}
+
+.temp-converter > h2 {
+    color: #fff;
+}
